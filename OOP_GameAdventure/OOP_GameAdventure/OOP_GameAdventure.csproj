@@ -9,8 +9,12 @@
 
   <ItemGroup>
     <None Remove="Source\" />
+    <None Remove="Source\Text\" />
+    <None Remove="Source\Characters\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Source\" />
+    <Folder Include="Source\Text\" />
+    <Folder Include="Source\Characters\" />
   </ItemGroup>
 </Project>

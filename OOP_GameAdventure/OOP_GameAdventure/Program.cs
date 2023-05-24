@@ -1,6 +1,10 @@
 ﻿using OOP_GameAdventure;
 
-Console.WriteLine("Hello! What is your name?");
+
+var language = new English();
+
+
+Console.WriteLine(language.ChooseYourName);
 var name = Console.ReadLine();
 if (name == string.Empty)
     name = "No Name";
