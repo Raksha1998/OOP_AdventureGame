@@ -1,0 +1,15 @@
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/bin/Debug/net7.0/OOP_GameAdventure
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/bin/Debug/net7.0/OOP_GameAdventure.deps.json
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/bin/Debug/net7.0/OOP_GameAdventure.runtimeconfig.json
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/bin/Debug/net7.0/OOP_GameAdventure.dll
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/bin/Debug/net7.0/OOP_GameAdventure.pdb
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/obj/Debug/net7.0/OOP_GameAdventure.csproj.AssemblyReference.cache
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/obj/Debug/net7.0/OOP_GameAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/obj/Debug/net7.0/OOP_GameAdventure.AssemblyInfoInputs.cache
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/obj/Debug/net7.0/OOP_GameAdventure.AssemblyInfo.cs
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/obj/Debug/net7.0/OOP_GameAdventure.csproj.CoreCompileInputs.cache
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/obj/Debug/net7.0/OOP_GameAdventure.dll
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/obj/Debug/net7.0/refint/OOP_GameAdventure.dll
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/obj/Debug/net7.0/OOP_GameAdventure.pdb
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/obj/Debug/net7.0/OOP_GameAdventure.genruntimeconfig.cache
+/Users/srirakshadesai/Projects/OOP_AdventureGame/OOP_GameAdventure/OOP_GameAdventure/obj/Debug/net7.0/ref/OOP_GameAdventure.dll
