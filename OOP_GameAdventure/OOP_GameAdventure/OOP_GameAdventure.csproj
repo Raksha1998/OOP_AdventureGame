@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Source\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Source\" />
+  </ItemGroup>
 </Project>
