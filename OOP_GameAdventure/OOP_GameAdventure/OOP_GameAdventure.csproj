@@ -11,10 +11,12 @@
     <None Remove="Source\" />
     <None Remove="Source\Text\" />
     <None Remove="Source\Characters\" />
+    <None Remove="Source\Map\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Source\" />
     <Folder Include="Source\Text\" />
     <Folder Include="Source\Characters\" />
+    <Folder Include="Source\Map\" />
   </ItemGroup>
 </Project>
